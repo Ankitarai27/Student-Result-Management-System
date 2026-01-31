@@ -28,6 +28,10 @@ A Java console-based application designed to manage student academic results eff
 2. Open in any Java IDE (IntelliJ / Eclipse / VS Code)
 3. Compile and run Main.java
 
+## Run on Windows
+Double-click `run.bat` to compile and run the application automatically.
+
+
 ## Future Enhancements
 - File-based data storage
 - GUI using JavaFX

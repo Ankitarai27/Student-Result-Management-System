@@ -3,7 +3,7 @@
 [![Java](https://img.shields.io/badge/Language-Java-ED8B00?logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![OOP](https://img.shields.io/badge/Concept-OOP-blueviolet)](https://en.wikipedia.org/wiki/Object-oriented_programming)
 [![Collections](https://img.shields.io/badge/Java-Collections_Framework-007396)](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html)
-[![Scanner](https://img.shields.io/badge/Input-Scanner_API-green)](https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html)
+[![Scanner](https://img.shields.io/badge/Input-Scanner-green)](https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html)
 
 A Java console-based application designed to manage student academic results efficiently using object-oriented programming principles.
 

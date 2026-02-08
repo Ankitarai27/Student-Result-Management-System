@@ -9,6 +9,7 @@ A **Java console-based application** designed to efficiently manage student acad
 
 ---
 
+
 ## 🚀 Overview
 
 The **Student Result Management System** allows users to store, manage, and retrieve student academic results. It supports automatic calculations, grade assignment, and persistent data storage, making it a solid foundational project for learning Java application development.

@@ -56,7 +56,7 @@ Student-Result-Management-System/
 
 ---
 
-## 🔄 Detailed Application Flow (Mermaid)
+## 🔄 Detailed Application Flow
 
 ```mermaid
 flowchart TD

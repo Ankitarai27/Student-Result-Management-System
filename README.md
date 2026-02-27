@@ -92,6 +92,7 @@ flowchart TD
     H -- "4. Exit" --> T([Close scanner and end program])
     H -- "Invalid input" --> U[Print invalid choice]
     U --> G
+
 ```
 
 ### 🧠 Flow Explanation (Step-by-Step)
@@ -173,3 +174,4 @@ java -cp src Main
 ⭐ If you found this project useful, consider starring the repository.
 
 </div>
+

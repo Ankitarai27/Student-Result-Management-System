@@ -53,7 +53,7 @@ Student-Result-Management-System/
 ```mermaid
 flowchart TD
     A([Start Program]) --> B[Create ResultManager]
-    B --> C[Load student data from <code>data/students.txt</code>]
+    B --> C[Load student data from data/students.txt]
     C --> D{Records file exists?}
     D -- No --> E[Continue with empty list]
     D -- Yes --> F[Read each line and rebuild Student objects]
@@ -69,20 +69,20 @@ flowchart TD
     L --> G
 
     H -- "2. View All Results" --> M{Any students in list?}
-    M -- No --> N[Print "No student records found"]
-    M -- Yes --> O[Print each student with total, %, grade]
+    M -- No --> N[Print no student records found]
+    M -- Yes --> O[Print each student with total, percentage, and grade]
     N --> G
     O --> G
 
     H -- "3. Search by ID" --> P[Read target ID]
     P --> Q{ID found in list?}
     Q -- Yes --> R[Print matching student details]
-    Q -- No --> S[Print "Student not found"]
+    Q -- No --> S[Print student not found]
     R --> G
     S --> G
 
     H -- "4. Exit" --> T([Close scanner and end program])
-    H -- "Invalid input" --> U[Print "Invalid choice"]
+    H -- "Invalid input" --> U[Print invalid choice]
     U --> G
 ```
 
